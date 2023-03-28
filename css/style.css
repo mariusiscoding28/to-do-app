@@ -168,6 +168,4 @@ body {
 
 .to-do-item.is-edit .form-input {
   display: block;
-  padding: 0;
-  border: 0;
 }
